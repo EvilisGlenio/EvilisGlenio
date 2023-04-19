@@ -3,12 +3,12 @@
 Sou um desenvolvedor front-end em treinamento, apaixonado por tecnologia e em busca da minha primeira oportunidade como desenvolvedor júnior. Atualmente, estou estudando ReactJS, NextJS e Chakra UI, enquanto trabalho em alguns projetos pessoais.
 
 ## Habilidades
-- <i class="fab fa-html5"></i> HTML
-- <i class="fab fa-css3-alt"></i> CSS
-- <i class="fab fa-js"></i> JavaScript
-- <i class="fab fa-react"></i> ReactJS
-- <i class="fab fa-react"></i> NextJS
-- <i class="fab fa-react"></i> Chakra UI
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
 
 ## Sobre mim
 - Amo programar e aprendo mais com a prática
