@@ -22,6 +22,3 @@ Sou um desenvolvedor front-end em treinamento, apaixonado por tecnologia e em bu
 ## Contato
 - (glenio.developer@gmail.com ou (84)98763-2038)
 - [Linkedin](https://www.linkedin.com/in/evilis-glenio/)
-
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-7y+T63l/G3cJUsOzCjG7jeZkM+9v7OyHJQ2km7nP30wWBSxv+1j5eb5cy+Y8fJmz9E/W/s6jngov+oOHdJwW1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-<script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/js/all.min.js" integrity="sha512-aaHVoG9+9AOJyaCcz7Yo+5zhEZ91SY+oxpbDZ0hJfvG6F61GO6q3X6h+le6lGjRUwWlRvJ0Q4nN4V7F4zWZDvQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
