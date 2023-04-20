@@ -13,12 +13,13 @@ Sou um desenvolvedor front-end em treinamento, apaixonado por tecnologia e em bu
 ## Sobre mim
 - Amo programar e aprendo mais com a prática
 - Amo motociclismo e sonho em ter uma Suzuki Boulevard M800, atualmente tenho uma minicuston que me faz muito feliz
-- Adoro viajar e é algo que me traz mais prazer do que possuir grandes bens
+- Adoro viajar e é algo que me traz muito prazer
 - Sou noivo 
-- Meu estilo musical preferido é o rock and roll.
-- Gosto muito de jogar videogame, mas evito jogar para manter o foco nos meus estudos. Meus estilos preferidos são RPG e aventura, como Zelda, Diablo, Final Fantasy e Dark Souls.
-- Apesar de ter tido alguns problemas durante minha vida, estou me esforçando para recuperar o tempo perdido e alçar voos nessa carreira incrível.
+- Meu estilo musical preferido é o rock and roll
+- Gosto muito de jogar videogame, mas evito jogar para manter o foco nos meus estudos. Meus estilos preferidos são RPG e aventura, como Zelda, Diablo, Final Fantasy e Dark Souls
+- Apesar de ter tido alguns problemas durante minha vida, estou me esforçando para recuperar o tempo perdido e alçar voos nessa carreira incrível
 
 ## Contato
-- (glenio.developer@gmail.com ou (84)98763-2038)
+- (glenio.developer@gmail.com)
+- 📞 Telefone: [+55 84 98763-2038](https://wa.me/5584987632038)
 - [Linkedin](https://www.linkedin.com/in/evilis-glenio/)
