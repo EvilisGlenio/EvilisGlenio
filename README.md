@@ -20,6 +20,6 @@ Sou um desenvolvedor front-end em treinamento, apaixonado por tecnologia e em bu
 - Apesar de ter tido alguns problemas durante minha vida, estou me esforçando para recuperar o tempo perdido e alçar voos nessa carreira incrível
 
 ## Contato
-- (glenio.developer@gmail.com)
-- 📞 Telefone: [+55 84 98763-2038](https://wa.me/5584987632038)
-- [Linkedin](https://www.linkedin.com/in/evilis-glenio/)
+[![Email](https://img.shields.io/badge/Email-glenio.developer%40gmail.com-green)](mailto:glenio.developer@gmail.com)
+[![Telefone](https://img.shields.io/badge/Telefone-+55%2084%2098763--2038-green?logo=WhatsApp)](https://wa.me/5584987632038)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Evilis%20Glenio-blue?logo=LinkedIn)](https://www.linkedin.com/in/evilis-glenio/)
