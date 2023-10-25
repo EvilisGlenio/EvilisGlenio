@@ -24,5 +24,5 @@ Sou um desenvolvedor front-end, apaixonado por tecnologia e em busca da minha pr
 
 ## Contato
 [![Email](https://img.shields.io/badge/Email-glenio.developer%40gmail.com-green)](mailto:glenio.developer@gmail.com)
-[![Telefone](https://img.shields.io/badge/Telefone-+55%2084%2098763--2038-green?logo=WhatsApp)](https://wa.me/5584987632038)
+[![Telefone](https://img.shields.io/badge/Telefone-+55%2084%2098114--1407-green?logo=WhatsApp)](https://wa.me/5584981141407)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Evilis%20Glenio-blue?logo=LinkedIn)](https://www.linkedin.com/in/evilis-glenio/)
