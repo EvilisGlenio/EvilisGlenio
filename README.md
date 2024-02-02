@@ -1,5 +1,5 @@
  ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
-  ![](https://komarev.com/ghpvc/?username=sciencepal&label=Profile%20Visits&color=blue&style=for-the-badge)
+  ![](https://komarev.com/ghpvc/?username=EvilisGlenio&label=Profile%20Visits&color=blue&style=for-the-badge)
 
 Sou um desenvolvedor front-end, apaixonado por tecnologia e em busca da minha primeira oportunidade como desenvolvedor júnior. Atualmente, estou estudando algumas tecnologias como NextJs, alguns FrameworksCSS, Prisma, integrações com APIs, enquanto trabalho em alguns projetos pessoais.
 
