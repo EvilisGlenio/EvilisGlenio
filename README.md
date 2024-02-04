@@ -1,9 +1,19 @@
  ## Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
   ![](https://komarev.com/ghpvc/?username=EvilisGlenio&label=Profile%20Visits&color=blue&style=for-the-badge)
 
-"Desenvolvedor web com experiência, focado em front-end com habilidades em React, TypeScript, HTML, CSS, e contribuições em projetos de ecommerce e mais."
+Desenvolvedor web com experiência, focado em front-end com habilidades em React, TypeScript, HTML, CSS, e contribuições em projetos de ecommerce e mais.
 
-### 👨🏻‍💻 Tecnologias <br />
+
+## Sobre mim
+- Amo programar e aprendo mais com a prática
+- Amo motociclismo e sonho em ter uma Suzuki Boulevard M800, atualmente tenho uma minicuston que me faz muito feliz
+- Adoro viajar e é algo que me traz muito prazer
+- Sou noivo 
+- Meu estilo musical preferido é o rock and roll
+- Gosto muito de jogar videogame, mas evito jogar para manter o foco nos meus estudos. Meus estilos preferidos são RPG e aventura, como Zelda, Diablo, Final Fantasy e Dark Souls
+- Apesar de ter tido alguns problemas durante minha vida, estou me esforçando para recuperar o tempo perdido e alçar voos nessa carreira incrível
+
+### 👨🏻‍💻 Ferramentas e Habilidades <br />
   <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"></code>
   <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"></code>
   <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"></code>
@@ -19,16 +29,6 @@
   <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg"></code>
   <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/StyledComponents.svg"></code>
   <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg"></code>
-
-
-## Sobre mim
-- Amo programar e aprendo mais com a prática
-- Amo motociclismo e sonho em ter uma Suzuki Boulevard M800, atualmente tenho uma minicuston que me faz muito feliz
-- Adoro viajar e é algo que me traz muito prazer
-- Sou noivo 
-- Meu estilo musical preferido é o rock and roll
-- Gosto muito de jogar videogame, mas evito jogar para manter o foco nos meus estudos. Meus estilos preferidos são RPG e aventura, como Zelda, Diablo, Final Fantasy e Dark Souls
-- Apesar de ter tido alguns problemas durante minha vida, estou me esforçando para recuperar o tempo perdido e alçar voos nessa carreira incrível
 
 ### 📫 Como me encontrar:
   
