@@ -1,7 +1,7 @@
  ## Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
   ![](https://komarev.com/ghpvc/?username=EvilisGlenio&label=Profile%20Visits&color=blue&style=for-the-badge)
 
-Desenvolvedor web com experiência, focado em front-end com habilidades em React, TypeScript, HTML, CSS, e contribuições em projetos de ecommerce e mais.
+Desenvolvedor web com experiência, focado em front-end com habilidades em React, Next, TypeScript, consumo de APIs e contribuições em projetos de ecommerce e mais.
 
 
 ## Sobre mim
