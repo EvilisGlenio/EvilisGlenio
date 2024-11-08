@@ -1,7 +1,7 @@
  ## Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
   ![](https://komarev.com/ghpvc/?username=EvilisGlenio&label=Profile%20Visits&color=blue&style=for-the-badge)
 
-Desenvolvedor web com experiência, focado em front-end com habilidades em React, Next, TypeScript, consumo de APIs e contribuições em projetos de ecommerce e mais.
+Desenvolvedor web com experiência, focado no desenvolvimento full-stack com habilidades em React, Next, TypeScript, .Net 8, C#, consumo de APIs e contribuições em projetos de ecommerce e mais.
 
  - 🔭 Estou trabalhando como Desenvolvedor Web em Natal, Brasil
  - 🌱 Estou constantemente em busca de aprimorar minhas habilidades
@@ -16,9 +16,7 @@ Desenvolvedor web com experiência, focado em front-end com habilidades em React
   <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg"></code>
   <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg"></code>
   <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg"></code>
-  <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg"></code>
-  <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg"></code>
-  <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Apollo.svg"></code>
+  <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/c#.svg"></code>
   <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"></code>
   <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/storybook/storybook.png"></code>
