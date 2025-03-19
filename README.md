@@ -1,31 +1,23 @@
- ## Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
-  ![](https://komarev.com/ghpvc/?username=EvilisGlenio&label=Profile%20Visits&color=blue&style=for-the-badge)
+# 👨‍💻 Evilis Glenio | Desenvolvedor Full Stack
 
-Desenvolvedor web com experiência, focado no desenvolvimento full-stack com habilidades em React, Next, TypeScript, .Net 8, C#, consumo de APIs e contribuições em projetos de ecommerce e mais.
+🚀 **Desenvolvedor Full Stack | Especializado em React, Next.js e .NET**
 
- - 🔭 Estou trabalhando como Desenvolvedor Web em Natal, Brasil
- - 🌱 Estou constantemente em busca de aprimorar minhas habilidades
- - 💬 Pergunte-me sobre [One Piece](https://onepiece.fandom.com/pt/wiki/P%C3%A1gina_principal) e [Bitcoin](https://bitcoin.org/pt_BR/)
- - ⚡ Keep calm and Luffy wa kaizoku-ou ni naru otoko da
+Sou um desenvolvedor full stack com experiência em **tecnologias modernas para criação de aplicações escaláveis e performáticas**. Tenho domínio em **React, Next.js, TypeScript, .NET 8 e C#**, além de forte atuação no consumo de APIs e desenvolvimento de soluções para **e-commerce e sistemas web**.
 
-## 👨🏻‍💻 Ferramentas e Habilidades
-  <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"></code>
-  <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"></code>
-  <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"></code>
-  <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg"></code>
-  <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg"></code>
-  <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg"></code>
-  <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg"></code>
-  <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg"></code>
-  <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg"></code>
-  <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"></code>
-  <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/storybook/storybook.png"></code>
-  <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg"></code>
-  <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg"></code>
-  <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/StyledComponents.svg"></code>
-  <code><img height="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg"></code>
+## 💡 Habilidades Técnicas
+- **Frontend:** React, Next.js, TypeScript, TailwindCSS, Styled Components, Storybook
+- **Backend:** .NET 8, C#, Node.js, Firebase
+- **Banco de Dados:** SQL Server, PostgreSQL, Firebase
+- **Ferramentas & DevOps:** Git, GitHub, CI/CD, Figma
 
-## 📫 Como me encontrar:
-  
-  [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/profiles/76561198128010046/)  &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/glenio9309)  &nbsp; [<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="3.4%"/>]([https://www.linkedin.com/in/adityapal1/](https://www.linkedin.com/in/evilis-glenio/))    &nbsp; [<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" width="3.4%"/>](https://www.instagram.com/evilis.glenio/)  &nbsp; <a href="mailto:glenio.developer@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+## 📝 Publicações e Projetos
+- **[Dominando os hooks do React: Um tutorial completo com exemplos de useState, useCallback e useMemo](https://pt.linkedin.com/posts/evilis-glenio_dominando-os-hooks-do-react-um-tutorial-activity-7183446137553506304-T_Vk)**: Artigo publicado no Medium, compartilhando conhecimentos sobre hooks do React.
+- **[Introdução Prática ao GraphQL com Apollo: Construindo uma API GraphQL com Node.js](https://www.linkedin.com/pulse/introdu%C3%A7%C3%A3o-pr%C3%A1tica-ao-graphql-com-apollo-construindo-uma-glenio-3xnaf)**: Tutorial sobre como utilizar GraphQL com Apollo Server para construir uma aplicação simples de API GraphQL com Node.js.
+
+## 🎯 O que me motiva
+Sou apaixonado por criar soluções completas, desde a interface até a lógica de negócio. Meu foco está em **desenvolvimento eficiente, boas práticas e escalabilidade**.
+
+## 📬 Entre em contato
+📧 E-mail: [glenio.developer@gmail.com](mailto:glenio.developer@gmail.com)  
+💼 LinkedIn: [linkedin.com/in/evilis-glenio](https://www.linkedin.com/in/evilis-glenio/)  
+📷 Instagram: [@evilis.glenio](https://www.instagram.com/evilis.glenio/)
