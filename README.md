@@ -1,23 +1,54 @@
-# 👨‍💻 Evilis Glenio | Desenvolvedor Full Stack
+<h1 align="center">Olá, eu sou o Evilis Glenio!</h1>
 
-🚀 **Desenvolvedor Full Stack | Especializado em React, Next.js e .NET**
+<p align="center">
+  Desenvolvedor Backend focado em criar APIs robustas e escaláveis com .NET
+</p>
 
-Sou um desenvolvedor full stack com experiência em **tecnologias modernas para criação de aplicações escaláveis e performáticas**. Tenho domínio em **React, Next.js, TypeScript, .NET 8 e C#**, além de forte atuação no consumo de APIs e desenvolvimento de soluções para **e-commerce e sistemas web**.
+---
 
-## 💡 Habilidades Técnicas
-- **Frontend:** React, Next.js, TypeScript, TailwindCSS, Styled Components, Storybook
-- **Backend:** .NET 8, C#, Node.js, Firebase
-- **Banco de Dados:** SQL Server, PostgreSQL, Firebase
-- **Ferramentas & DevOps:** Git, GitHub, CI/CD, Figma
+### 🚀 Sobre mim
 
-## 📝 Publicações e Projetos
-- **[Dominando os hooks do React: Um tutorial completo com exemplos de useState, useCallback e useMemo](https://pt.linkedin.com/posts/evilis-glenio_dominando-os-hooks-do-react-um-tutorial-activity-7183446137553506304-T_Vk)**: Artigo publicado no Medium, compartilhando conhecimentos sobre hooks do React.
-- **[Introdução Prática ao GraphQL com Apollo: Construindo uma API GraphQL com Node.js](https://www.linkedin.com/pulse/introdu%C3%A7%C3%A3o-pr%C3%A1tica-ao-graphql-com-apollo-construindo-uma-glenio-3xnaf)**: Tutorial sobre como utilizar GraphQL com Apollo Server para construir uma aplicação simples de API GraphQL com Node.js.
+Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor backend apaixonado por transformar ideias em soluções reais.  
+Atualmente me aprofundo em **.NET**, com foco em **APIs RESTful**, **Domain-Driven Design (DDD)** e **boas práticas de código limpo**.
 
-## 🎯 O que me motiva
-Sou apaixonado por criar soluções completas, desde a interface até a lógica de negócio. Meu foco está em **desenvolvimento eficiente, boas práticas e escalabilidade**.
+Também tenho experiência com desenvolvimento front-end, mas hoje meu foco está em construir **sistemas sólidos no backend**.
 
-## 📬 Entre em contato
-📧 E-mail: [glenio.developer@gmail.com](mailto:glenio.developer@gmail.com)  
-💼 LinkedIn: [linkedin.com/in/evilis-glenio](https://www.linkedin.com/in/evilis-glenio/)  
-📷 Instagram: [@evilis.glenio](https://www.instagram.com/evilis.glenio/)
+---
+
+### 🧠 Tecnologias que uso
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+---
+
+### 📌 Projetos em Destaque
+
+#### [InfoPill - Consulta Rápida de Medicamentos](https://github.com/EvilisGlenio/info-pill)
+> API em desenvolvimento para busca de medicamentos, posologia e interações.  
+> Tecnologias: .NET, DDD, RAG + Semantic Kernel (IA), SQL Server  
+> Status: Prova de Conceito (POC) em andamento
+
+---
+
+#### [CRUD API com ASP.NET e JWT (em breve)]()
+> Projeto completo de autenticação e gerenciamento de usuários com autenticação JWT, Entity Framework e deploy no Azure.  
+> Status: Em planejamento
+
+---
+
+### 📫 Como me encontrar
+
+- [LinkedIn](https://www.linkedin.com/in/evilis-glenio/)
+- [Portfólio](https://gleniodev.netlify.app/)
+- Email: glenio.developer@gmail.com
+
+---
+
+### ⚡ Curiosidade
+
+Sou fã de desenvolvimento limpo, testes e boas práticas. Acredito que software bem feito é aquele que pode crescer sem se tornar uma bagunça.
+
