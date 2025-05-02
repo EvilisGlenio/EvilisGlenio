@@ -36,7 +36,7 @@ Também tenho experiência com desenvolvimento front-end, mas hoje meu foco est�
 
 #### [Nascente - Controle Financeiro Pessoal](https://github.com/EvilisGlenio/nascente)
 > Aplicação fullstack para controle de receitas e despesas com foco em organização financeira.  
-> Tecnologias: .NET, Next.js, SQL Server, Clean Code  
+> Tecnologias: .NET, Next.js, MySQL, Clean Code  
 > Status: Backend orientado a boas práticas e escalabilidade em andamento.
 
 ---
