@@ -27,17 +27,17 @@ Também tenho experiência com desenvolvimento front-end, mas hoje meu foco est�
 
 ### 📌 Projetos em Destaque
 
-#### [InfoPill - Consulta Rápida de Medicamentos](https://github.com/EvilisGlenio/InfoPill)
-> API em desenvolvimento para busca de medicamentos, posologia e interações.  
-> Tecnologias: .NET, DDD, RAG + Semantic Kernel (IA), SQL Server  
-> Status: Prova de Conceito (POC) em andamento
-
----
-
 #### [Nascente - Controle Financeiro Pessoal](https://github.com/EvilisGlenio/nascente)
 > Aplicação fullstack para controle de receitas e despesas com foco em organização financeira.  
 > Tecnologias: .NET, Next.js, MySQL, Clean Code  
 > Status: Backend orientado a boas práticas e escalabilidade em andamento.
+
+---
+
+#### [InfoPill - Consulta Rápida de Medicamentos](https://github.com/EvilisGlenio/InfoPill)
+> API em desenvolvimento para busca de medicamentos, posologia e interações.  
+> Tecnologias: .NET, DDD, RAG + Semantic Kernel (IA), SQL Server  
+> Status: Prova de Conceito (POC) em andamento
 
 ---
 
