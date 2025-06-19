@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Fullstack Developer na MontenegroHub</strong> <br />
-  Especializado em criar soluções web robustas e escaláveis com <strong>.NET, Next.js e Docker</strong>.
+  Especializado em criar soluções web robustas e escaláveis.
 </p>
 
 <p align="center">
