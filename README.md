@@ -1,54 +1,68 @@
-<h1 align="center">Olá, eu sou o Evilis Glenio!</h1>
+<h1 align="center">Olá, eu sou o Evilis Glenio! 👋</h1>
 
 <p align="center">
-  Desenvolvedor Backend focado em criar APIs robustas e escaláveis com .NET
+  <strong>Fullstack Developer na MontenegroHub</strong> <br />
+  Especializado em criar soluções web robustas e escaláveis com <strong>.NET, Next.js e Docker</strong>.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/evilis-glenio/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:glenio.developer@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://gleniodev.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-00C7B7?style=for-the-badge&logo=webtrees&logoColor=white" alt="Portfólio">
+  </a>
 </p>
 
 ---
 
-### 🚀 Sobre mim
+### 👨🏻‍💻 Sobre Mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor backend apaixonado por transformar ideias em soluções reais.  
-Atualmente me aprofundo em **.NET**, com foco em **APIs RESTful**, **Domain-Driven Design (DDD)** e **boas práticas de código limpo**.
+Sou Desenvolvedor Fullstack e estudante de Análise e Desenvolvimento de Sistemas, apaixonado por transformar desafios complexos em software de alta qualidade. Atualmente na **MontenegroHub**, foco em construir e manter sistemas completos, desde a arquitetura do backend até a experiência do usuário no frontend.
 
-Também tenho experiência com desenvolvimento front-end, mas hoje meu foco está em construir **sistemas sólidos no backend**.
+Minha base sólida em backend com **.NET** e **Domain-Driven Design (DDD)** me permite criar APIs seguras e eficientes. No frontend, utilizo **Next.js** para desenvolver interfaces dinâmicas e responsivas. Meu objetivo é sempre entregar código limpo, testável e que agregue valor real ao negócio.
 
 ---
 
-### 🧠 Tecnologias que uso
+### 🛠️ Meu Stack Tecnológico
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
+</p>
 
 ---
 
 ### 📌 Projetos em Destaque
 
 #### [Nascente - Controle Financeiro Pessoal](https://github.com/EvilisGlenio/nascente)
-> Aplicação fullstack para controle de receitas e despesas com foco em organização financeira.  
-> Tecnologias: .NET, Next.js, MySQL, Clean Code  
-> Status: Backend orientado a boas práticas e escalabilidade em andamento.
+> Aplicação fullstack para gestão de finanças pessoais, demonstrando a integração entre um backend robusto e um frontend moderno e reativo.
+>
+> **Tecnologias:** `.NET`, `Next.js`, `MySQL`, `Clean Architecture`
+>
+> **Status:** Em desenvolvimento contínuo.
 
 ---
 
 #### [InfoPill - Consulta Rápida de Medicamentos](https://github.com/EvilisGlenio/InfoPill)
-> API em desenvolvimento para busca de medicamentos, posologia e interações.  
-> Tecnologias: .NET, DDD, RAG + Semantic Kernel (IA), SQL Server  
-> Status: Prova de Conceito (POC) em andamento
+> Prova de conceito de uma API para consulta inteligente de medicamentos, explorando o uso de IA para otimizar os resultados de busca.
+>
+> **Tecnologias:** `.NET`, `DDD`, `RAG + Semantic Kernel (IA)`, `SQL Server`
+>
+> **Status:** Prova de Conceito (POC) funcional.
 
 ---
 
-### 📫 Como me encontrar
+### 💡 Filosofia de Desenvolvimento
 
-- [LinkedIn](https://www.linkedin.com/in/evilis-glenio/)
-- [Portfólio](https://gleniodev.netlify.app/)
-- Email: glenio.developer@gmail.com
-
----
-
-### ⚡ Curiosidade
-
-Sou fã de desenvolvimento limpo, testes e boas práticas. Acredito que software bem feito é aquele que pode crescer sem se tornar uma bagunça.
+> Acredito que a qualidade de um software é medida pela sua capacidade de evoluir. Por isso, sou um grande entusiasta de **código limpo, testes automatizados e arquiteturas bem definidas**. Um software bem construído é a chave para o crescimento sustentável de um projeto.
