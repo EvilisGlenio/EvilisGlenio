@@ -14,7 +14,7 @@ Valorizo **código limpo, boas práticas, versionamento com Git, integração co
 ## 🛠️ Tecnologias e Ferramentas
 
 - **Frontend:** Next.js, React, TypeScript, TailwindCSS  
-- **Backend:** NestJS
+- **Backend:** NestJS, .Net, C#
 - **Banco de Dados:** PostgreSQL, SQL Server, MySQL
 - **Infra & DevOps:** Docker, GitHub Actions  
 - **Ferramentas:** Git, Swagger
