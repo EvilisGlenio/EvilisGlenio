@@ -5,7 +5,7 @@
 
 ## 👨🏻‍💻 Sobre Mim
 
-Sou Desenvolvedor Fullstack na **Montenegro Hub**, atuando há 4 meses no desenvolvimento de aplicações web modernas e performáticas.  
+Sou Desenvolvedor Fullstack na **Montenegro Hub**, atuando no desenvolvimento de aplicações web modernas e performáticas.  
 
 Trabalho principalmente com **Next.js**, **NestJS**, e **TypeScript**, construindo soluções completas — do backend robusto ao frontend responsivo.  
 
